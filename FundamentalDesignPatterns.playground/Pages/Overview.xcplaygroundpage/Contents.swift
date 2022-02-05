@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 /*:
  
  # Overview (Обзор)
@@ -19,4 +21,5 @@
  Примерами креативных паттернов являются:
  - [Singleton](Singleton)
  - [Builder](Builder)
- */
+*/
+//: [Next](@next)
