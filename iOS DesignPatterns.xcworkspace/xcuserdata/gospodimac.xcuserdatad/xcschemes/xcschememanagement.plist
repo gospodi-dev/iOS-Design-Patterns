@@ -4,6 +4,13 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AdvancedDesignPatterns (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>FundamentalDesignPatterns (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -23,7 +30,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>1</integer>
+		</dict>
+		<key>IntermediateDesignPatterns (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
